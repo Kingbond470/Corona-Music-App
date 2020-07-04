@@ -182,6 +182,7 @@ root.title('Corona Music App Player')
 root.iconbitmap('kingbondl.ico')
 root.resizable(False,False) 
 root.configure(bg='lightskyblue')
+
 createwidthes()
 StringText='App Developer - KingbondL / MS'
 count=0
